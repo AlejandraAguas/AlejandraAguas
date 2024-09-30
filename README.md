@@ -28,10 +28,10 @@ Me encanta transformar datos en historias que ayuden a las empresas a tomar deci
 
 ## 🚀 Mis Proyectos Destacados
 
-### [🔍 Análisis de Taxis en NYC](https://github.com/Jorgemteyssier/Proyecto-Taxis-NYC)
-Un análisis detallado de los patrones de viaje de los taxis en Nueva York, entendiendo el comportamiento de los pasajeros y la calidad del aire en la ciudad.
+### [📹 Sistema de recomendación de peliculas](https://github.com/AlejandraAguas/Sistema_de_Recomendacion_Peliculas)
+Un proyecto para recomendar peliculas de acuerdo a los datos.
 
-**Tecnologías utilizadas:** `Python`, `Pandas`, `Matplotlib`, `Seaborn`
+**Tecnologías utilizadas:** `Power BI`, `FastApi`
 
 ---
 
@@ -41,11 +41,11 @@ Un dashboard interactivo creado en **Power BI** para visualizar el acceso a inte
 **Tecnologías utilizadas:** `Power BI`, `DAX`, `Power Query`
 
 ---
+### [🔍 Análisis de Taxis en NYC](https://github.com/Jorgemteyssier/Proyecto-Taxis-NYC)
+Un análisis detallado de los patrones de viaje de los taxis en Nueva York, entendiendo el comportamiento de los pasajeros y la calidad del aire en la ciudad.
 
-### [📹 Sistema de recomendacion de peliculas](https://github.com/AlejandraAguas/Sistema_de_Recomendacion_Peliculas)
-Un proyecto para recomendar peliculas de acuerdo a los datos.
+**Tecnologías utilizadas:** `Python`, `Pandas`, `Matplotlib`, `Seaborn`
 
-**Tecnologías utilizadas:** `Power BI`, `FastApi`
 
 ---
 
