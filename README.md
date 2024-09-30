@@ -21,7 +21,7 @@ Me encanta transformar datos en historias que ayuden a las empresas a tomar deci
 | **Análisis de Datos**      | Convierto grandes volúmenes de datos en insights accionables utilizando técnicas estadísticas. | ⭐⭐⭐⭐⭐ |
 | **Machine Learning**       | Desarrollo modelos predictivos y clasificatorios con algoritmos de aprendizaje supervisado.    | ⭐⭐⭐⭐  |
 | **Visualización de Datos** | Diseño dashboards interactivos y visuales claros que cuentan historias basadas en datos.      | ⭐⭐⭐⭐⭐ |
-| **SQL y Bases de Datos**   | Consultas eficientes y optimización de bases de datos para análisis rápidos.                  | ⭐⭐⭐⭐  |
+| **Bases de Datos**   | Consultas eficientes y optimización de bases de datos para análisis rápidos.                  | ⭐⭐⭐⭐  |
 | **Trabajo en Equipo**      | Colaboro estrechamente en entornos multidisciplinarios para lograr objetivos comunes.          | ⭐⭐⭐⭐⭐ |
 
 ---
