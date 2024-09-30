@@ -28,20 +28,20 @@ Me encanta transformar datos en historias que ayuden a las empresas a tomar deci
 
 ## 🚀 Mis Proyectos Destacados
 
-### [📹 Sistema de recomendación de peliculas](https://github.com/AlejandraAguas/Sistema_de_Recomendacion_Peliculas)
+### [🎬 Recomendación de Películas](https://github.com/AlejandraAguas/Sistema_de_Recomendacion_Peliculas)
 Un proyecto para recomendar peliculas de acuerdo a los datos.
 
 **Tecnologías utilizadas:** `Power BI`, `FastApi`
 
 ---
 
-### [📊 Telecomunicaciones - Enacom](https://github.com/AlejandraAguas/Telecomunicaciones_Enacom)
+### [🌐 Telecomunicaciones en Argentina: Un Análisis con Power BI](https://github.com/AlejandraAguas/Telecomunicaciones_Enacom)
 Un dashboard interactivo creado en **Power BI** para visualizar el acceso a internet por provincias en Argentina. Este proyecto ayuda a identificar brechas de conectividad en el país.
 
 **Tecnologías utilizadas:** `Power BI`, `DAX`, `Power Query`
 
 ---
-### [🔍 Análisis de Taxis en NYC](https://github.com/Jorgemteyssier/Proyecto-Taxis-NYC)
+### [🚕 Taxis en Nueva York: Exploración de Datos](https://github.com/Jorgemteyssier/Proyecto-Taxis-NYC)
 Un análisis detallado de los patrones de viaje de los taxis en Nueva York, entendiendo el comportamiento de los pasajeros y la calidad del aire en la ciudad.
 
 **Tecnologías utilizadas:** `Python`, `Pandas`, `Matplotlib`, `Seaborn`
@@ -51,9 +51,9 @@ Un análisis detallado de los patrones de viaje de los taxis en Nueva York, ente
 
 ## 🌱 Siempre Aprendiendo...
 
-- Actualmente estoy aprendiendo **AWS**.
-- Explorando proyectos en **Visualización de Datos Avanzada**.
-- Profundizando en **Big Data**.
+☁️ AWS: Explorando el poder de la nube.
+📈 Visualización Avanzada: Llevando las visualizaciones al siguiente nivel.
+🏞 Big Data: Cómo manejar volúmenes masivos de datos de manera eficiente.
 
 ---
 
