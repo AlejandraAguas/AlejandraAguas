@@ -51,8 +51,8 @@ Un análisis detallado de los patrones de viaje de los taxis en Nueva York, ente
 
 ## 🌱 Siempre Aprendiendo...
 
-☁️ AWS: Explorando el poder de la nube.
-📈 Visualización Avanzada: Llevando las visualizaciones al siguiente nivel.
+☁️ AWS: Explorando el poder de la nube.  
+📈 Visualización Avanzada: Llevando las visualizaciones al siguiente nivel.  
 🏞 Big Data: Cómo manejar volúmenes masivos de datos de manera eficiente.
 
 ---
