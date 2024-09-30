@@ -59,6 +59,6 @@ Un análisis detallado de los patrones de viaje de los taxis en Nueva York, ente
 
 ## 📫 Cómo encontrarme:
 
-[![LinkedIn](https://img.shields.io/badge/-Alejandra%20Aguas-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/alejandraaguas)
+[![LinkedIn](https://img.shields.io/badge/-Alejandra%20Aguas-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alejandraaguas/)
 [![Hotmail](https://img.shields.io/badge/-alejaguasv%40hotmail.com-0078D4?logo=Microsoft-Outlook&logoColor=white&style=for-the-badge)](mailto:alejaguasv@hotmail.com)
 
